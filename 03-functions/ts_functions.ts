@@ -76,4 +76,4 @@ function isLeapYear(year:number):boolean{
 
 console.log(isLeapYear(1998)); // false
 console.log(isLeapYear(1900)); // fasle
-console.log(isLeapYear(2000)); // trueclear
+console.log(isLeapYear(2000)); // true
