@@ -3,13 +3,13 @@ TypeScript for Beginners Guide
 Welcome to the TypeScript for Beginners guide! This resource is designed to help you get started with TypeScript, whether you're new to programming or coming from a different language background.
 
 Table of Contents:
+
 1.Introduction
 2.Installation
 3.Basic Concepts
 4.TypeScript Features
 5.Advanced Topics
 6.Contributing
-
 
 🖊️ Introduction
 
